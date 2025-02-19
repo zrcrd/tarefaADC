@@ -18,6 +18,7 @@
 int main() {
     //  CONFIGURAÇÃO INICIAL 
     stdio_init_all();            // Inicializa comunicação serial padrão
+    printf("Programa iniciado\n");
     inicia();                    // Configura GPIOs, ADC e outros periféricos
     inipwm();                    // Inicializa o PWM para controle de LEDs
     inii2();                     // Configura a comunicação I2C para o display OLED
