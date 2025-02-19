@@ -148,7 +148,7 @@ Contribuições são bem-vindas! Para contribuir, siga os passos abaixo:
 
 🎦 Demonstração em Vídeo
 
-O vídeo de demonstração do projeto pode ser acessado pelo link:
+O vídeo de demonstração do projeto pode ser acessado pelo link: https://drive.google.com/file/d/1VYo_fwgBQDHlR1jyoIw78_Ql0ULYF2G2/view?usp=drive_link
 
 
 ---
