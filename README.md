@@ -98,7 +98,7 @@ O joystick fornece valores analógicos que controlam a **intensidade luminosa do
    ```
 2. Acesse a pasta do projeto:
    ```sh
-   cd seu-repositorio
+   cd https://github.com/zrcrd/tarefaADC.git
    ```
 3. Compile o projeto no **VS Code** configurado para **RP2040**.
 4. Carregue o código na **placa BitDogLab**.
